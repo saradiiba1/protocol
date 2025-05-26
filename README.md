@@ -19,9 +19,6 @@ Please **DO NOT** open a public issue.
 
 This is the branch for active development, and it contains:
 
-1. Not fully audited: work-in-progress system contracts changes
-2. Audited and in-use: "plugin" contracts (e.g., integrations, price feeds, policies, fees) and peripheral contracts (e.g., wrappers) that are backwards-compatible with v4.
-
 For deployed, in-production system contracts, see the relevant release branch (e.g., `v4`).
 
 v4 contract deployments can be found [here](https://docs.enzyme.finance/developers/contracts).
