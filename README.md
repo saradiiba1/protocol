@@ -15,8 +15,6 @@ Please **DO NOT** open a public issue.
 
 ## Using this Repository
 
-This is the branch for active development, and it contains:
-
 For deployed, in-production system contracts, see the relevant release branch (e.g., `v4`).
 
 v4 contract deployments can be found [here](https://docs.enzyme.finance/developers/contracts).
