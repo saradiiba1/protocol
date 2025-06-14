@@ -9,8 +9,6 @@ Enzyme is an Ethereum-based protocol for decentralized on-chain asset management
 
 If you find a vulnerability that may affect live deployments, you can submit a report via:
 
-Please **DO NOT** open a public issue.
-
 ## Using this Repository
 
 For deployed, in-production system contracts, see the relevant release branch (e.g., `v4`).
