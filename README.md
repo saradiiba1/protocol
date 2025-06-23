@@ -15,8 +15,6 @@ For deployed, in-production system contracts, see the relevant release branch (e
 
 v4 contract deployments can be found [here](https://docs.enzyme.finance/developers/contracts).
 
-### Prerequisites
-
 #### Automatic
 
 This repository comes with a reproducible development environment based on `nix` and `direnv`.
