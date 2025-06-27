@@ -11,8 +11,6 @@ If you find a vulnerability that may affect live deployments, you can submit a r
 
 ## Using this Repository
 
-For deployed, in-production system contracts, see the relevant release branch (e.g., `v4`).
-
 v4 contract deployments can be found [here](https://docs.enzyme.finance/developers/contracts).
 
 #### Automatic
