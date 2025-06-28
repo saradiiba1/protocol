@@ -51,8 +51,6 @@ make build
 First, create your `.env` file by copying `.env.example`. Input your Ethereum (and/or other networks) node endpoint info as-needed (generally, only setting `ETHEREUM_NODE_MAINNET`, `ETHEREUM_NODE_POLYGON`, etc is fine).
 
 Then, in order to run the test suite:
-
-```sh
 make test
 ```
 
